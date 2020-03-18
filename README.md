@@ -12,6 +12,6 @@ View a Demo at: https://spycampllc.ml/ShoppingList/
 
 ### 4.  cd to the cloned project 
 
-### 5. Put this into you terminal: python3 -m http.server 3333
+### 5. Put this into you terminal: python3 -m http.server 4444
 
-### On your web go to localhost:3333.
+### On your web go to http://0.0.0.0:3333.
